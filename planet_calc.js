@@ -1,0 +1,2 @@
+function planetWeightCalculator(planet, weight) {
+}
