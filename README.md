@@ -1,7 +1,12 @@
 # Solar Weight Calculator
 
+_During this exercise students will:_
+- Gain practice translating basic mathematical formulas into code
+- Organize several different cases of operations into a switch statement
+- Develop strategies for running and testing small programs
+
 ### Intro
-Let's practice working with switch statements.  
+Let's practice working with switch statements.
 
 _Please read through the entire README before beginning!_
 
